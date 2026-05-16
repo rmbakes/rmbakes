@@ -1,0 +1,202 @@
+[
+  {
+    "category": "Cakes",
+    "items": [
+      {
+        "name": "Classic Vanilla",
+        "price": 750,
+        "unit": "/Kg",
+        "image": "classic-vanilla-cake.jpg",
+        "tag": "Classic"
+      },
+      {
+        "name": "Choco Truffle",
+        "price": 900,
+        "unit": "/Kg",
+        "image": "choco-truffle.jpg",
+        "tag": "Bestseller"
+      },
+      {
+        "name": "Black Forest",
+        "price": 850,
+        "unit": "/Kg",
+        "image": "black-forest.jpg",
+        "tag": "Popular"
+      },
+      {
+        "name": "Chocolate Cake",
+        "price": 850,
+        "unit": "/Kg",
+        "image": "chocolate-cake.jpg",
+        "tag": "Chocolate"
+      },
+      {
+        "name": "Strawberry Cake",
+        "price": 850,
+        "unit": "/Kg",
+        "image": "strawberry-cake.jpg",
+        "tag": "Fresh"
+      }
+    ]
+  },
+  {
+    "category": "RM Signature Cakes",
+    "items": [
+      {
+        "name": "Kunafa Pistachio",
+        "price": 1299,
+        "unit": "/Kg",
+        "image": "kunafa-pistachio.jpg",
+        "tag": "Premium"
+      },
+      {
+        "name": "Walnut Caramel",
+        "price": 1299,
+        "unit": "/Kg",
+        "image": "walnut-caramel.jpg",
+        "tag": "Signature"
+      },
+      {
+        "name": "Ferrero Rocher",
+        "price": 1299,
+        "unit": "/Kg",
+        "image": "ferrero-rocher.jpg",
+        "tag": "Luxury"
+      },
+      {
+        "name": "Intense Dark",
+        "price": 1199,
+        "unit": "/Kg",
+        "image": "intense-dark.jpg",
+        "tag": "Dark"
+      },
+      {
+        "name": "Lotus Biscoff Choco",
+        "price": 1399,
+        "unit": "/Kg",
+        "image": "lotus-biscoff.jpg",
+        "tag": "Trending"
+      }
+    ]
+  },
+  {
+    "category": "Brownies",
+    "items": [
+      {
+        "name": "Classic Crinkle Top",
+        "price": 65,
+        "unit": "/Pcs",
+        "image": "crinkle-brownie.jpg",
+        "tag": "Classic"
+      },
+      {
+        "name": "Walnut Brownie",
+        "price": 75,
+        "unit": "/Pcs",
+        "image": "walnut-brownie.jpg",
+        "tag": "Nutty"
+      },
+      {
+        "name": "Almond Brownie",
+        "price": 75,
+        "unit": "/Pcs",
+        "image": "almond-brownie.jpg",
+        "tag": "Crunchy"
+      },
+      {
+        "name": "Triple Chocolate",
+        "price": 80,
+        "unit": "/Pcs",
+        "image": "triple-chocolate.jpg",
+        "tag": "Chocolate"
+      },
+      {
+        "name": "Chocolate Brookies",
+        "price": 79,
+        "unit": "/Pcs",
+        "image": "brookies.jpg",
+        "tag": "Fusion"
+      }
+    ]
+  },
+  {
+    "category": "Cheese Cakes",
+    "items": [
+      {
+        "name": "Classic Vanilla Cheesecake",
+        "price": 149,
+        "unit": "/Pcs",
+        "image": "vanilla-cheesecake.jpg",
+        "tag": "Classic"
+      },
+      {
+        "name": "Chocolate Cheesecake",
+        "price": 159,
+        "unit": "/Pcs",
+        "image": "chocolate-cheesecake.jpg",
+        "tag": "Chocolate"
+      },
+      {
+        "name": "Strawberry Cheesecake",
+        "price": 159,
+        "unit": "/Pcs",
+        "image": "strawberry-cheesecake.jpg",
+        "tag": "Fresh"
+      },
+      {
+        "name": "Mango Cheesecake",
+        "price": 159,
+        "unit": "/Pcs",
+        "image": "mango-cheesecake.jpg",
+        "tag": "Seasonal"
+      },
+      {
+        "name": "Blueberry Cheesecake",
+        "price": 169,
+        "unit": "/Pcs",
+        "image": "blueberry-cheesecake.jpg",
+        "tag": "Premium"
+      }
+    ]
+  },
+  {
+    "category": "Cookies",
+    "items": [
+      {
+        "name": "Kunafa Pistachio Cookies",
+        "price": 249,
+        "unit": "/250g",
+        "image": "kunafa-cookie.jpg",
+        "tag": "Premium"
+      },
+      {
+        "name": "Triple Chocolate Cookies",
+        "price": 249,
+        "unit": "/250g",
+        "image": "triple-cookie.jpg",
+        "tag": "Chocolate"
+      },
+      {
+        "name": "Biscoff Cookies",
+        "price": 325,
+        "unit": "/250g",
+        "image": "biscoff-cookie.jpg",
+        "tag": "Trending"
+      },
+      {
+        "name": "Almond Cookies",
+        "price": 299,
+        "unit": "/250g",
+        "image": "almond-cookie.jpg",
+        "tag": "Nutty"
+      },
+      {
+        "name": "Tiramisu Cookies",
+        "price": 349,
+        "unit": "/250g",
+        "image": "tiramisu-cookie.jpg",
+        "tag": "Luxury"
+      }
+    ]
+  }
+]
